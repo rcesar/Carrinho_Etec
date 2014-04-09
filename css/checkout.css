@@ -1,0 +1,39 @@
+.condicoes {
+	float: left;
+	max-width: 600px;
+
+}
+
+.resumo {
+	float: right;
+	min-width: 300px;
+
+}
+
+#cc {
+	border: 1px solid #efefef;
+	padding: 10px;
+}
+
+#cc input[type="text"]{
+	float: none;
+	margin: 2px;
+	width: 400px;
+	padding: 5px;
+}
+
+#cc select, .uneditable-input:focus:invalid{
+	border: none;
+	outline: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+#cc select{
+	border: 1px solid #ddd;
+}
+
+.cmpInvalido {
+	background: #FFABAD;
+}

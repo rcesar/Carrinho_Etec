@@ -1,0 +1,14 @@
+.cent {
+	width: 681px;
+	margin: 0 auto;
+}
+
+.boxinf{
+	width: 300px;
+	float: left;
+	margin: 20px;
+}
+
+input{
+	width: 300px;
+}

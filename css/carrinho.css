@@ -1,0 +1,28 @@
+table.prod tr.primaria td{
+	border-bottom: 2px solid #2980b9;
+}
+
+table.prod tr.sec td{
+	border-bottom: 1px solid #efefef;
+	padding: 10px;
+}
+
+input#qtdprod {
+	height: 16px;
+	text-align: center;
+}
+
+input#cep {
+	font-size: 20px;
+	padding: 5px;
+	width: 200px;
+	
+}
+
+.finalizar{
+	float: right;
+	text-align: right;
+	margin-right: 20px;
+}
+
+

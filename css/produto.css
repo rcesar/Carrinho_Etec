@@ -1,0 +1,22 @@
+ul#thumblist{display:block; padding: 0;}
+ul#thumblist li{float:left;margin-right:2px;list-style:none; max-width: 140px ;overflow: hidden;}
+ul#thumblist li a{display:block;/*border:1px solid #CCC;*/}
+ul#thumblist li a.zoomThumbActive{
+    /*border:1px solid #8b8b8b;*/
+}
+
+.jqzoom{
+
+	text-decoration:none;
+	float:left;
+}
+
+.foto {
+	width: 570px;
+	float: left;
+}
+
+.dados{
+	width: 400px;
+	float: right;	
+}

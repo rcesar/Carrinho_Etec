@@ -1,0 +1,35 @@
+.boxdados {
+	width: 300px;
+	margin: 5px;
+	float: left;
+	border-right: 1px solid #eee;
+
+}
+
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+
+	/*margin: 0;*/
+	/*padding: 7px 5px 6px;*/
+	height: 29px;
+	width: 290px;
+	margin-bottom: 10px;
+	/*margin-right: -4px;*/
+	/*float: left;*/
+	border: 1px solid #ddd;
+}

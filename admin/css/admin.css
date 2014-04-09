@@ -1,0 +1,53 @@
+.form {
+	width: 600px;
+	float: left;
+
+}
+
+.lista {
+	float: right; 
+	width: 350px;
+	
+}
+
+input {
+min-width: 300px;
+}
+
+.busca {
+	float: right;
+	text-align: right;
+	clear: right;
+	height: 95px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+.busca h3{
+	margin: 0;
+	padding: 0;
+}
+
+table.prod tr.primaria td{
+	border-bottom: 2px solid #2980b9;
+}
+
+table.prod tr.sec td{
+	border-bottom: 1px solid #efefef;
+	padding: 20px;
+	margin: 10px;
+}
+
+
+
+.finalizar{
+	float: right;
+	text-align: right;
+	margin-right: 20px;
+}
+
+hr{
+	border: 1px solid #ddd;
+}
+

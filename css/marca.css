@@ -1,0 +1,20 @@
+.marca{
+	max-width:230px;
+	float: left;
+	margin-bottom: 10px;
+	padding: 5px;
+	margin: 5px;
+
+}
+
+.marca img{
+		-webkit-transition: 0.5s all ease;
+	-moz-transition: 0.5s all ease;
+	-ms-transition: 0.5s all ease;
+	-o-transition:0.5s all ease;
+	transition: 0.5s all ease0.5
+}
+
+.marca img:hover {
+	opacity: 0.8;
+}
